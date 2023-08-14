@@ -2,4 +2,4 @@
 Just a little test
 
 
-if you want to test: [http://svg-museum.great-site.net/]
+if you want to test: http://svg-museum.infinityfreeapp.com/
